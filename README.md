@@ -1,11 +1,11 @@
-<h1 align="center">Wallace Garcia dos Santos</h1>
+<h1 align="center">Luiz Henrique Braga de Araujo</h1>
 
 <p align="center">
  Support Analyst • Fullstack Developer • Cloud Student • Oracle Cloud Infrastructure Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/wallace-santos-670347386?trk=profile-badge">
+  <a href="https://br.linkedin.com/in/henrique-araujo-bb7734336?trk=profile-badge">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
