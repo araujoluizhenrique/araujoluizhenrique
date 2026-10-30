@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Henrique Braga de Araujo</h1>
 
 <p align="center">
- DBA ORACLE • DBA SQL SERVER • DBA MYSQL • ORACLE CLOUD NFRASTRUCTURE ENTHUSIAST
+ Oracle Database • SQL Server • MySQL • Oracle Cloud Infrastructure Enthusiast
 </p>
 
 <p align="center">
