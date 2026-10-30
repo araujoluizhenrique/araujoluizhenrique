@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Henrique Braga de Araujo</h1>
 
 <p align="center">
- Support Analyst • Fullstack Developer • Cloud Student • Oracle Cloud Infrastructure Enthusiast
+ DBA ORACLE • DBA SQL SERVER • DBA MYSQL • Oracle Cloud Infrastructure Enthusiast
 </p>
 
 <p align="center">
@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/wallacesantos19">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
