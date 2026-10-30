@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Cloud+Infrastructure;Support+Analyst;Docker+%7C+Linux+%7C+Grafana;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DBA+ORACLE;DBA+SQL+SERVER;Cloud+Infrastructure;Support+Analyst;Docker+%7C+Linux+%7C+Grafana;Always+learning+new+things" />
 </p>
 
 ---
