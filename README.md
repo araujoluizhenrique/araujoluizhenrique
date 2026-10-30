@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Henrique Braga de Araujo</h1>
 
 <p align="center">
- DBA ORACLE • DBA SQL SERVER • DBA MYSQL • Oracle Cloud Infrastructure Enthusiast
+ DBA ORACLE • DBA SQL SERVER • DBA MYSQL • ORACLE CLOUD NFRASTRUCTURE ENTHUSIAST
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DBA+ORACLE;DBA+SQL+SERVER;Cloud+Infrastructure;Support+Analyst;Docker+%7C+Linux+%7C;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DBA+ORACLE;DBA+SQL+SERVER;CLOUD+INFRASTRUCTURE;SUPPORT+ANALYST;DOCKER+|+LINUX+|;ALWAYS+LEARNING+NEW+THINGS" />
 </p>
 
 ---
