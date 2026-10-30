@@ -32,10 +32,11 @@ Focus:
   - Windows & Linux
 
 Currently Learning:
-  - Java Spring Boot
-  - Oracle Cloud Infrastructure
-  - Grafana + Prometheus
-  - React Native
+  - 
+  - 
+  - Oracle Database Certified Professional (OCP) 
+  - Linux Professional
+  - MySQL 8.0 Database Administrator (1Z0-908)
 
 Goals:
   - Enter the technology market
