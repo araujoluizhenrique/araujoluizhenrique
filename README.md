@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DBA+ORACLE;DBA+SQL+SERVER;CLOUD+INFRASTRUCTURE;SUPPORT+ANALYST;DOCKER+|+LINUX+|WINDOWS;ALWAYS+LEARNING+NEW+THINGS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DBA+ORACLE;DBA+SQL+SERVER;CLOUD+INFRASTRUCTURE;SUPPORT+ANALYST;LINUX+|+WINDOWS;ALWAYS+LEARNING+NEW+THINGS" />
 </p>
 
 ---
