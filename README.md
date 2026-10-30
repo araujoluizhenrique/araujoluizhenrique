@@ -20,12 +20,16 @@
 # 👨‍💻 About Me
 
 ```yaml
-Name: Wallace Santos
+Name: Henrique Araujo
 
 Focus:
-  - Cloud Infrastructure
+  - Oracle Database
+  - SQL Server
+  - MySQL
+  - Performance Tuning
+  - Backup & Recovery
   - Monitoring & Automation
-  - Docker & Linux
+  - Windows & Linux
 
 Currently Learning:
   - Java Spring Boot
